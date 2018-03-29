@@ -1,0 +1,10 @@
+name: sentiment_insights
+title:
+username:
+account: appv1
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 304744
+bundleId: 1281119
+url: https://appv1.shinyapps.io/sentiment_insights/
+when: 1521663085.71617
